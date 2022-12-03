@@ -24,6 +24,10 @@ Why Use Java?
   As Java is close to C++ and C#, it makes it easy for programmers to switch to Java or vice versa
  */
 
+ // curly braces - {}
+ // semicolon - ;
+ // 
+
   public class Main{
       public static void main(String[] args){
          System.out.println("Hello worlds ");
