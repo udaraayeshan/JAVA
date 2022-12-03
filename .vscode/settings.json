@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "3.Java Comments",
+        "4.Java Variables"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
