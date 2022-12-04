@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "4.Java Variables",
         "3.Java Comments",
-        "4.Java Variables"
+        "5.Java Data Types"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
