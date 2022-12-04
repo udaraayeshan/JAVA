@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
+        "6.Java Type Casting",
         "5.Java Data Types",
         "4.Java Variables",
         "3.Java Comments",
-        "6.Java Type Casting"
+        "7.Java Operators"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
