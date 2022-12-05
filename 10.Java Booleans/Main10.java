@@ -45,7 +45,7 @@ For example, you can use a comparison operator,
      
      //Real Life Example
 
-     int myAge = 25;
+     int myAge = 30;
      int votingAge = 18;
 
      if (myAge >= votingAge) {
