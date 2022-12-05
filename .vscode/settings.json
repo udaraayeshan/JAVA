@@ -1,13 +1,13 @@
 {
     "java.project.sourcePaths": [
-        "Java Math",
+        "9.Java Math",
         "8.Java Strings",
         "7.Java Operators",
         "6.Java Type Casting",
         "5.Java Data Types",
         "4.Java Variables",
         "3.Java Comments",
-        "9.Java Math"
+        "10.Java Booleans"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
