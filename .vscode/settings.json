@@ -1,8 +1,8 @@
 {
     "java.project.sourcePaths": [
-        "9.Java Math",
+        "12.Java Switch",
         "11.Java If ... Else",
-        "12.Java Switch"
+        "18.Java Method Parameters"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
