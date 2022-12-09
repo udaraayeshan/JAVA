@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "18.Java Method Parameters",
         "12.Java Switch",
         "11.Java If ... Else",
-        "18.Java Method Parameters"
+        "19.Java Method Overloading"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
