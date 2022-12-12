@@ -1,11 +1,12 @@
 {
     "java.project.sourcePaths": [
+        "21.Java Recursion",
         "20.Java Scope",
         "19.Java Method Overloading",
         "18.Java Method Parameters",
         "12.Java Switch",
         "11.Java If ... Else",
-        "21.Java Recursion"
+        "23.Java Classes and Objects"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
