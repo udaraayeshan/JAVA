@@ -100,7 +100,7 @@ public class Main {
 }
 Second.java
 class Second {
-  public static void main(String[] args) {
+  public static void main(String[] args) {  //main method eka thina class thama main class eka
     Main myCar = new Main();     // Create a myCar object
     myCar.fullThrottle();      // Call the fullThrottle() method
     myCar.speed(200);          // Call the speed() method
