@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "24.Java Class Attributes",
         "23.Java Classes and Objects",
         "21.Java Recursion",
         "20.Java Scope",
@@ -7,7 +8,7 @@
         "18.Java Method Parameters",
         "12.Java Switch",
         "11.Java If ... Else",
-        "24.Java Class Attributes"
+        "25.Java Class Methods"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
