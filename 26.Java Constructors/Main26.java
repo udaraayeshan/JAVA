@@ -32,7 +32,7 @@
   
 //     public static void main(String[] args) {
 //       Main27 myObj = new Main27(5);
-//       System.out.println(myObj.x);
+//       System.out.println(myObj.x);  
 //     }
 //   }
   
