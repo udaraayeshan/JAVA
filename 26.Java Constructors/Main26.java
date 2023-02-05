@@ -40,17 +40,17 @@
 
 
   //Example
-  public class Main27 {
+  public class Main26 {
     int modelYear;
     String modelName;
   
-    public Main27(int year, String name) {
+    public Main26(int year, String name) {
       modelYear = year;
       modelName = name;
     }
   
     public static void main(String[] args) {
-      Main27 myCar = new Main27(1969, "Mustang");
+      Main26 myCar = new Main26(1969, "Mustang");
       System.out.println(myCar.modelYear + " " + myCar.modelName);
     }
   }
