@@ -62,7 +62,11 @@
 
 
 
+
+
 // Static
+
+
 // A static method means that it can be accessed without creating an object of the class, unlike public:
 
 // Example
@@ -89,6 +93,7 @@
 //     myObj.myPublicMethod(); // Call the public method
 //   }
 // }
+
 
 
 
@@ -126,3 +131,7 @@ abstract class Main27 {
       myObj.study(); // call abstract method
     }
   }
+
+
+
+
