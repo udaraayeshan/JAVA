@@ -59,9 +59,9 @@ public class Main23 {
 
 //Second.java
 
-class Second {
+ class Second {
   public static void main(String[] args) {
     Main23 myObj = new Main23();
     System.out.println(myObj.x);
   }
-} 
+ } 

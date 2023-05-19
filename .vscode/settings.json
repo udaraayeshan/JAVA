@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "27.Java Modifiers",
         "26.Java Constructors",
         "25.Java Class Methods",
         "24.Java Class Attributes",
@@ -10,7 +11,7 @@
         "18.Java Method Parameters",
         "12.Java Switch",
         "11.Java If ... Else",
-        "27.Java Modifiers"
+        "28.Java Encapsulation"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
